@@ -17,14 +17,14 @@
     display: -moz-box;
     display: -ms-flexbox;
     display: -webkit-flex;
-    display: flex;
 
+    display: flex;
     -webkit-box-flex: row wrap;
     justify-content: space-around;
 }
 
 .flex-item { 
-    background: tomato;   
+    background: rgb(141, 71, 255);   
     padding: 5px;
     width: 200px;
     height: 150px;
